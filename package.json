@@ -1,6 +1,6 @@
 {
   "name": "@hamberjs/eslint-config",
-  "version": "0.0.1",
+  "version": "5.8.0",
   "description": "Hamber ESLint config",
   "main": "index.js",
   "scripts": {
